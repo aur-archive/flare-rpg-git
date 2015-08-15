@@ -1,0 +1,11 @@
+Version 20130114
+ * Update to reflect repo splitting.
+Version 20120422
+ * the one-branch trick didn't work that well partly, reverting...
+Version 20120417
+ * only pull origin master, when we do git pull
+ * perform shallow, single-branch clone
+Version 20120405
+ * make git clean -dfx actually work in intended way
+Version 20120311
+ * Initial version
